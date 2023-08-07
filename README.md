@@ -5,6 +5,9 @@ macos App 打包成 dmg文件，通过目录和shell脚本实现
 # 命令
 
 # Dir
+
+
+source =====> target
 ```
 tree -L 2
 .
